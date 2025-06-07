@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: compact
+  - block: collection
     content:
       title: Selected Projects
       text: Here are a selection of projects that I have worked on over the years. 
