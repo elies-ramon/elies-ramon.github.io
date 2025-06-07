@@ -142,5 +142,4 @@ languages:
 
 ## About Me
 
-I am Elies Ramon, a data scientist and machine learning researcher.  Besides that, I develop R packages, both as part of my job and as a personal projects. You can see my portfolio at the Projects link above. 
-I currently reside in Barcelona.
+I am Elies Ramon, a data scientist and machine learning researcher.  Besides that, I develop R packages, both as part of my job and as a personal project. Some of these packages include [`kerntools`](https://elies-ramon.github.io/kerntools/) and [`kernInt`](https://github.com/elies-ramon/kernInt). You can see my complete portfolio at the [Projects](/projects) link above.
