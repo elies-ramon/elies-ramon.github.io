@@ -48,37 +48,27 @@ interests:
   - Microbiome and microbial data
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Genetics
+    institution: Universitat Autònoma de Barcelona
+    date_start: 2017-04-01
+    date_end: 2020-11-06
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master in Biological Anthropology
+    institution: Universitat de Barcelona
+    date_start: 2013-09-01
+    date_end: 2015-09-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Biotechnology
+    institution: Universitat Autònoma de Barcelona
+    date_start: 2009-09-01
+    date_end: 2013-09-01
+    summary: |
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -179,4 +169,4 @@ awards:
 
 ## About Me
 
-Elies Ramon, Ph.D. is a data scientist and machine learning researcher. His research interests include (...). He (...).
+I am Elies Ramon, a data scientist and machine learning researcher.  Besides that, I develop R packages, both as part of my job and as a personal projects. You can see them at the Software link above. I currently reside in Barcelona.
