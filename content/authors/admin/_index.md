@@ -11,7 +11,7 @@ last_name: Ramon
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data scientist and Machine Learning researcher
+role: Data scientist & Machine Learning researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,7 +45,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Machine Learning
-  - Microbiome and microbial data
+  - Microbiome and HIV data
 
 education:
   - area: PhD in Genetics
@@ -53,10 +53,10 @@ education:
     date_start: 2017-04-01
     date_end: 2020-11-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My dissertation, Kernel approaches for complex phenotype prediction, was focused on optimizing supervised and unsupervised machine learning methods for biological problems, especially regarding HIV drug resistance and metagenomics analysis. Presented a paper at the 'IWBBIO 2019' conference, and my contributions were published in 2 peer-reviewed Q1 journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.tesisenred.net/handle/10803/671296#page=1'
   - area: Master in Biological Anthropology
     institution: Universitat de Barcelona
     date_start: 2013-09-01
@@ -70,28 +70,25 @@ education:
     summary: |
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data scientist / Postdoc researcher
+    company_name: Catalan Institute of Oncology (ICO)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022
+    date_end: 2024
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I was in charge of several epidemiological studies on how microbiome and previous diseases influence the risk of cancer. My role entailed mentoring our Ph.D. students and performing statistical analyses and classical machine learning approaches, for the following projects:
+      - inSCAN: Big data project - Extraction, cleaning and statistical analysis of the PADRIS dataset (electronic health records from 150000 cancer cases diagnosed in Catalonia between 2012-2017, plus 1.5 million matched controls).
+      - FUSOMAP: Statistical analysis of the prevalence, geographical distribution, and prognostic risk of F. nucleatum infection.
+      - Fundació La Marató de TV3 (Ref.202127-31): Microbiota composition as risk predictor in cancer patients infected with COVID.
+  - position: Machine Learning researcher
+    company_name: Universitat de Girona/MJN
+    company_url: ''
+    company_logo: ''
+    date_start: 2021
+    date_end: 2022
+    summary: |
+      I worked for the University of Girona in collaboration with the start-up MJN. Our goal was prototyping a support device for early monitoring and detection of Alzheimer. We used Python to train machine learning models from EEG time series data.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,51 +119,28 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Cycling
         description: ''
         percent: 80
-        icon: camera
+        icon: bike
 
 languages:
-  - name: English
+  - name: Catalan
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 100
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+#awards:
+
 ---
 
 ## About Me
 
-I am Elies Ramon, a data scientist and machine learning researcher.  Besides that, I develop R packages, both as part of my job and as a personal projects. You can see them at the Software link above. I currently reside in Barcelona.
+I am Elies Ramon, a data scientist and machine learning researcher.  Besides that, I develop R packages, both as part of my job and as a personal projects. You can see my portfolio at the Projects link above. 
+I currently reside in Barcelona.
