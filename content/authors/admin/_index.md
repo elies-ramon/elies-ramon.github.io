@@ -43,8 +43,9 @@ profiles:
     url: https://orcid.org/0000-0002-7953-8115
 
 interests:
-  - Artificial Intelligence
   - Machine Learning
+  - Explainable AI
+  - Phenotype prediction
   - Microbiome and HIV data
 
 education:
@@ -53,7 +54,7 @@ education:
     date_start: 2017-04-01
     date_end: 2020-11-06
     summary: |
-      My dissertation, Kernel approaches for complex phenotype prediction, was focused on optimizing supervised and unsupervised machine learning methods for biological problems, especially regarding HIV drug resistance and metagenomics analysis. Presented a paper at the 'IWBBIO 2019' conference, and my contributions were published in 2 peer-reviewed Q1 journals.
+      My dissertation, Kernel approaches for complex phenotype prediction, was focused on optimizing supervised and unsupervised machine learning methods for biological problems, especially regarding HIV drug resistance and metagenomics analysis. I presented a paper at the 'IWBBIO 2019' conference, and my contributions were published in 2 peer-reviewed Q1 journals.
     button:
       text: 'Read Thesis'
       url: 'https://www.tesisenred.net/handle/10803/671296#page=1'
@@ -110,4 +111,4 @@ languages:
 
 ## About Me
 
-I am Elies Ramon, a data scientist and machine learning researcher.  Besides that, I develop R packages, both as part of my job and as a personal project. Some of these packages include [`kerntools`](https://elies-ramon.github.io/kerntools/) and [`kernInt`](https://github.com/elies-ramon/kernInt). You can see my complete portfolio at the [Projects](/projects) link above.
+I am Elies Ramon, a data scientist and machine learning (ML) researcher. My Ph.D. was focused on customizing ML approaches (especially [kernel methods](https://en.wikipedia.org/wiki/Kernel_method)) to biological datasets, which usually have some unique traits that require nuance. After defending my thesis, I worked for the Catalan Institute of Oncology analyzing health-related data, including patients records and "omic" data from biological samples. Besides that, I have developed several R packages, both as part of my job and as a personal project. Some of these packages include [`kerntools`](https://elies-ramon.github.io/kerntools/) and [`kernInt`](https://github.com/elies-ramon/kernInt). Check [Projects](/projects) to see my complete portfolio.
